@@ -90,6 +90,6 @@
     "immutable-ops": "^0.7.0",
     "lodash": "^4.17.15",
     "re-reselect": "^3.4.0",
-    "reselect": "^3.0.1"
+    "reselect": "^4.0.0"
   }
 }
